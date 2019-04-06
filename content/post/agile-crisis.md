@@ -14,6 +14,6 @@ The Agile Crisis
 tl;dr:
 
 	1. Agile is a mindset, and Scrum is a project management
-	2. If Scrum fails then it's wrong Scrum (no true Scrum)
+	2. If Scrum fails then it's a wrong Scrum (no true Scrum)
 	3. Imbalance of power between product owners and developers
 	4. Software development is not an assembly line (yet?)
