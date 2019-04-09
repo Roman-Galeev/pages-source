@@ -35,3 +35,5 @@ origin: "$ORIGIN"
 TL;DR:
 
 EOT
+
+echo "Check content/post/$NAME.md, provide tags and/or tl;dr"
