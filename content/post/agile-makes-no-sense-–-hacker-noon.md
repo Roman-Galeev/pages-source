@@ -1,5 +1,5 @@
 ---
-title: "Agile Makes No Sense – Hacker Noon"
+title: "Agile Makes No Sense?"
 tags: ["agile"]
 date: 2019-04-06T09:13:29+0000
 short: "http://bit.ly/2uPytqR"

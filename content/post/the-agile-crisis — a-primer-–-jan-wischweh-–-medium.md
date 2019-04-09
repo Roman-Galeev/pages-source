@@ -1,5 +1,5 @@
 ---
-title: "The Agile Crisis — a Primer – Jan Wischweh – Medium"
+title: "The Agile Crisis — a Primer"
 tags: ["agile"]
 date: 2019-04-06T09:00:02+0000
 short: "http://bit.ly/2uMyxYt"
