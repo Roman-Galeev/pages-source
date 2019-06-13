@@ -1,6 +1,7 @@
 ---
 title: "Zero Trust Architecture"
 tags: ["security"]
+date: 2019-06-13T08:47:58+0000
 ---
 
 ## Unknown unknowns
