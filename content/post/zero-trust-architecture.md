@@ -1,7 +1,6 @@
 ---
-title: "Cloud Zero Trust architecture"
+title: "Zero Trust Architecture"
 tags: ["security"]
-date: 2019-06-13T07:12:26+0000
 ---
 
 ## Unknown unknowns
