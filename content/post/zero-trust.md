@@ -6,7 +6,7 @@ date: 2019-06-13T07:12:26+0000
 
 ## Unknown unknowns
 
-Donald Rumsfeld:
+*Donald Rumsfeld:*
 Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.
 
 ## Zero trust model:
